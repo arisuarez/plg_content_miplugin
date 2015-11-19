@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.4" type="plugin" group="content" method="upgrade">
+	<name>Mi Plugin - Formación Joomla</name>
+	<author>Open Canarias SL</author>
+	<creationDate>April 2015</creationDate>
+	<version>0.1.0</version>
+	<description>Ejemplo de plugin del grupo de contenidos para formación Joomla.</description>
+	<files>
+		<filename plugin="miplugin">miplugin.php</filename>
+	</files>
+</extension>
